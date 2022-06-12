@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: **I have over 1000 hours roleplaying in games online! 🤓**
 
-<p><img align="center" src="https://www.codewars.com/users/SirRelix/badges/large" alt="codewars" /></p>
+<p><img align="center" src="https://www.codewars.com/users/SirRelix/badges/small" alt="codewars" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
