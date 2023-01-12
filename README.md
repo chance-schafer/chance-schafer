@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **any ideas/projects/issues you may have when it comes to html, css, javascript.**
 
-- 👨‍💻 All of my projects are available at [www.chanceschafer.com](url)
+- 👨‍💻 All of my projects are available at {www.chanceschafer.com}
 
 - 💬 Ask me about **what helped me jump start my software development journey.**
 
