@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js and React.**
 
-- 👯 I’m looking to collaborate on **open source software.**
+- 👯 I’m interested in collaborating on **open source software.**
 
 - 🤝 I’m looking for help with **any ideas/projects/issues you may have when it comes to html, css, javascript.**
 
