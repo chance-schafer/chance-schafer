@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/thedevchance" target="blank"><img src="https://img.shields.io/twitter/follow/thedevchance?logo=twitter&style=for-the-badge" alt="thedevchance" /></a> </p>
 
-- 🔭 I’m currently working on **developing a 100 hour project, more details soon!**
+- 🔭 I’m currently working on **developing a social media app that allows uers to showcase cool finds from Thrift Stores!**
 
-- 🌱 I’m currently learning **Node.js and React.**
+- 🌱 I’m currently working on becoming more proficient with **Vue.**
 
 - 👯 I’m interested in collaborating on **open source software.**
 
-- 🤝 I’m looking for help with **any ideas/projects/issues you may have when it comes to html, css, javascript.**
+- 🤝 Currently seeking employment as a **Software Developer.**
 
 - 👨‍💻 All of my projects are available at www.chanceschafer.com
 
